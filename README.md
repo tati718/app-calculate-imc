@@ -1,5 +1,5 @@
 # app-calculate-imc
-Criação de um aplicativo em JS de calcula o IMC
+Criação de um aplicativo em Javascript que calcula o IMC.
 
 Roteiro IMC
 =============================================================
